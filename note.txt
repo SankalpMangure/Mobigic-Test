@@ -1,0 +1,4 @@
+npm i express mysql dotenv hbs
+npm i nodemon
+npm i bcryptjs
+npm i cookie-parser jsonwebtoken
